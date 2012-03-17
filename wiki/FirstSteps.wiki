@@ -13,6 +13,12 @@ Using todataurl-png-js you get a working implementation with alpha channel, but 
 
 = First steps =
 
+== Demo ==
+
+You can find a working version of this at [http://dest.at/tdu/draw.html dest.at/tdu/draw.html]
+
+== Details ==
+
 In order to deploy todataurl-png-js, you have to add [http://todataurl-png-js.googlecode.com/svn/trunk/todataurl.js this file] to your HTML's head element. Linking to it directly is not recommended, since Google may change the location of project files at any time.
 
 Assuming this is your basic HTML
